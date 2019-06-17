@@ -2,12 +2,14 @@
 
 	* {
     box-sizing: border-box;
-    
+
     
  
 }
-html{
-	display:block;
+html
+{
+    display: block;
+}
 h1
 {
 	text-align: center;
