@@ -1,0 +1,46 @@
+body
+{
+ background-position: center;
+ background-color: green;
+ font: Times New Roman;
+}
+.form-area{
+	position:center;
+	text-align: center;
+	width:500px;
+	height:450px;
+	background-color: white;
+	border-radius: 15px;
+	padding:50px;
+	margin-top: 60px;
+	 
+}
+input{
+	width:100%;
+	height:50px;
+	border-radius: 2px;
+
+}
+.form-area >p{
+	text-align: left;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.btn{
+	display: inline-block;
+	height:40px;
+	width:150px;
+	background:pink;
+	position: relative;
+	text-align: center;
+	padding: 10px;
+	text-transform: uppercase;
+	cursor:pointer;
+}
+.form-area h1{
+	font: Times New Roman;
+}
+.container-fluid
+{
+
+}
